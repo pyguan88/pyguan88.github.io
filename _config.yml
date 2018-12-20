@@ -3,7 +3,7 @@ title: PY Blog
 SEOTitle: PY的博客 | PY Blog
 header-img: img/post-bg-js-version.jpg
 email: pyguan88@gmail.com
-description: "It's my first home page. WooHoo!"
+description: "It's my first home page WooHoo!"
 keyword: "PY"
 url: "http://pyguan88.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
