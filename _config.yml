@@ -3,7 +3,7 @@ title: PY Blog
 SEOTitle: PY的博客 | PY Blog
 header-img: img/post-bg-desk.jpg
 email: pyguan88@gmail.com
-description: "全是些没用的东西"
+description: "It's my first home page. WooHoo!"
 keyword: "PY"
 url: "http://pyguan88.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,7 +12,7 @@ github_repo: "https://github.com/pyguan88/pyguan88.github.io.git" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Do something cool!"
-sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
